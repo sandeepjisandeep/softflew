@@ -1,0 +1,13 @@
+/* 
+  Localizable.strings
+  SoftFlewDemo
+
+  Created by Shivam Srivastava on 28/01/23.
+  Copyright © 2023 Sandeep. All rights reserved.
+*/
+"AppSettingsKey" = "Settings";
+"ShowFavouriteKey" = "Favourites";
+"UserDetailsKey" = "UserDetails";
+"SettingsTitleKey" = "App Settings";
+"LanguageLabelKey" = "Set Default language(English)";
+"CancelKeys" = "Cancel";
